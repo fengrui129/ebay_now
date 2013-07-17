@@ -1,0 +1,10 @@
+js/jQuery/README - jQuery README
+---------------------------------
+
+This directory contains all the system wide, common jQuery libraries. This directory should contain the latest version of jQuery available. Old versions should be removed when a new version is added.
+
+If for some reason an upgrade to a jQuery library causes a bug, please document it below so that someone else does not update the same library and re-introduce the bug (please put down the library and version number that works, the version number of the upgrade that causes the bug, and a brief description of the bug caused by the upgrade).
+
+
+BUGS WHICH REQUIRE OLD VERSION
+-------------------------------
